@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+#codepen{
+  opacity: 0.5;
+}
+
 h1 {
   margin-top: 0;
 }
