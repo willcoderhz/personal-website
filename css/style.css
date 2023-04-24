@@ -10,6 +10,9 @@ body {
   opacity: 0.5;
 }
 
+h6{
+  color: rgb(105, 104, 104);
+}
 h1 {
   margin-top: 0;
 }
